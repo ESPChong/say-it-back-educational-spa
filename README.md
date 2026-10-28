@@ -75,3 +75,18 @@ This app utilizes the browser's native **Web Speech API**:
    **Note: This question will be added back into the queue to be asked again later in the round.**
 5. **Review the Round Report:** 
    After completing 10 questions, you will see a Round Report showing which facts you got right on the first try, which you fixed after a retry, and which ones are still tricky. You can choose to practice the tricky ones again or pick a new table.
+
+---
+
+## Side Note 
+
+This app was built to solve a challenge. The challenge details is as follows:
+
+**Task - Edtech interaction app**
+Build a small, playable interaction app for learning — not a slide deck and not a static website. A learner (or teacher) must be able to do something, get a response, and try again. Name one published learning idea (paper, textbook chapter, or curriculum source) and show how the interaction maps to it.
+
+The app takes input, does something useful, and gives feedback in the same session. Input and output can be text, taps, voice, or a mix. One activity is enough.
+
+Example (optional): you may use ASR (speech-to-text) and TTS (text-to-speech) so the learner talks and hears a reply — for instance a simple tutor face that listens, then speaks a short prompt. ASR/TTS is only an example. Typed or tap-based interaction is equally acceptable if the learning loop is clear.
+
+Along with the 
