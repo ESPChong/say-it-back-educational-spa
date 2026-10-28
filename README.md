@@ -78,7 +78,7 @@ This app utilizes the browser's native **Web Speech API**:
 
 ---
 
-## Side Note 
+## Side Note - Challenge Details
 
 This app was built to solve a challenge. The challenge details is as follows:
 
